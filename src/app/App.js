@@ -11,7 +11,6 @@ import { Home } from "../pages/Home";
 // const Resume = lazy(() => import("../pages/Resume"));
 
 const PageNotFound = lazy(() => import("../pages/PageNotFound"));
-
 export const App = () => {
     logCredits();
 
